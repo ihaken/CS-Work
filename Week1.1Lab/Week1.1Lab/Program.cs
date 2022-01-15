@@ -9,7 +9,8 @@ namespace Week1._1Lab
             //used operators and escaped characters to piece together multiple strings into one line of code
             Console.WriteLine("\t\t\t\t\tWeek 1 Lab Assignment" +
                 "\n\t\t\t\tAuthors: PARTNERname and Colton MacDonald" +
-                "\n\t\tWe used \\n for NewLine, \\t for the tabs, \\ for escape characters, and + operators" + "\nOur \'HelloWorld\' solution locations: PARTNER [GOES HERE], and Colton's: \'C:\\Users\\colto\\Desktop\\CSC 180\\HelloNewWorld\'");
+                "\n\t\tWe used \\n for NewLine, \\t for the tabs, \\ for escape characters, and + operators" + 
+                "\nOur \'HelloWorld\' solution locations: PARTNER [GOES HERE], and Colton's: \'C:\\Users\\colto\\Desktop\\CSC 180\\HelloNewWorld\'");
             Console.ReadLine();
         }
     }
