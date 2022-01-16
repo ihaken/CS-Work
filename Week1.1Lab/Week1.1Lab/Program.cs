@@ -12,6 +12,7 @@ namespace Week1._1Lab
                 "\n\t\tWe used \\n for NewLine, \\t for the tabs, \\ for escape characters, and + operators" + 
                 "\nOur \'HelloWorld\' solution locations: PARTNER [GOES HERE], and Colton's: \'C:\\Users\\colto\\Desktop\\CSC 180\\HelloNewWorld\'");
             Console.ReadLine();
+            Console.WriteLine("Howdy loser!");
         }
     }
 }
